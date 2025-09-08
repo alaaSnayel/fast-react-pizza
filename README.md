@@ -1,8 +1,45 @@
-# React + Vite
+# 🍕 Fast React Pizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A practice project from Jonas' React course — a pizza ordering application built with **React** and **Redux Toolkit**.  
+The app allows users to browse pizzas, add them to the cart, and place an order.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- View available pizzas with details.
+- Add/remove pizzas to/from the shopping cart.
+- Manage state globally using **Redux Toolkit**.
+- Simple and responsive UI.
+- Built with **Vite** for fast development and build.
+
+---
+
+🛠️ Built With
+
+React
+
+Redux Toolkit
+
+Vite
+
+CSS / JSX
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/alaaSnayel/fast-react-pizza.git
+
+# Navigate into the project folder
+cd fast-react-pizza
+
+# Install dependencies
+npm install
+
+# Run the app in development mode
+npm run dev
+
+# Build the app for production
+npm run build
