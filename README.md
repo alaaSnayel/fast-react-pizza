@@ -2,7 +2,7 @@
 
 A practice project from Jonas' React course — a pizza ordering application built with **React** and **Redux Toolkit**.  
 The app allows users to browse pizzas, add them to the cart, and place an order.  
-
+🔗 Live Demo: 
 ---
 
 ## 🚀 Features
